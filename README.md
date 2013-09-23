@@ -244,3 +244,9 @@ comments:
 
 
 -------------------------------------
+css comment:
+
+/* you can type any letter inside the comment field 
+*/
+
+--------------------------------------
