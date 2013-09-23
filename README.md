@@ -223,3 +223,9 @@ Curabitur scelerisque purus id risus adipiscing rutrum. Nulla facilisi. Curabitu
 </body>
 </html>
 
+
+------------------------------------------------------
+
+1.margin(first)
+2.border(secound)
+3.padding(inside content)
