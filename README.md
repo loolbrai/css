@@ -186,3 +186,40 @@ color: #777;
 <p class="featured">Free coffee with ski rental.</p>
 <p>Choose from 48 different ski colors.</p>
 </section>
+
+
+------------------------------------------------------------------
+.big-margin {
+    background: none repeat-y fixed 51px 57px dimgray;
+    border: 277px outset #FFCCCC;
+    margin: 144px;
+}
+
+
+<head>
+    <title>
+        Style Tag
+    </title>
+<style>
+.big-margin {
+    border: 20px solid #ccc;
+    background: lightBlue;
+    margin: 20px;
+}
+</style>
+
+</head>
+
+<body>
+<div class="big-margin">
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras laoreet dolor at diam facilisis vel ultrices nunc pretium. Nam urna velit, convallis ut vulputate vitae, posuere at erat. Mauris laoreet consectetur sodales. Duis est ligula, pellentesque sed blandit placerat, posuere ut tortor. Duis fringilla sapien a turpis imperdiet nec scelerisque risus lobortis. Nullam porta congue elit in consequat. Fusce vitae sapien dictum orci tincidunt suscipit pulvinar non tortor. Proin blandit fermentum sollicitudin. Integer tincidunt condimentum urna non aliquet. In eget tellus sapien. Morbi auctor dolor sit amet nisi gravida sollicitudin. Ut consequat, purus vitae pharetra hendrerit, nibh elit cursus est, sed consequat magna tellus ac leo. Nullam nisi ligula, blandit ornare viverra tristique, placerat aliquam turpis. Sed quis eros sem, volutpat iaculis augue. Fusce aliquam, mauris ut ullamcorper iaculis, nibh mi malesuada urna, condimentum lobortis neque felis quis libero.
+
+Suspendisse potenti. Donec tempus orci faucibus ligula varius pretium. Nam vitae iaculis turpis. Mauris vel accumsan leo. Praesent et enim justo. Nulla fermentum, ipsum a porttitor dictum, ipsum libero fermentum odio, eget pharetra nunc odio a nulla. Vestibulum erat odio, venenatis a facilisis et, aliquam at leo. In eu sollicitudin orci. Morbi egestas, neque ut egestas dapibus, dui enim egestas est, aliquet vulputate massa massa non nisi. Integer eu leo non est auctor porttitor eu in sem. Maecenas turpis lacus, tempus at feugiat dictum, laoreet eu lectus. Nunc faucibus sodales dictum.
+
+Curabitur scelerisque purus id risus adipiscing rutrum. Nulla facilisi. Curabitur non sem sed diam euismod dictum. Pellentesque molestie facilisis nulla, sed porttitor felis posuere ac. Aenean laoreet ligula sit amet dui viverra volutpat. Nullam arcu velit, malesuada quis consectetur id, semper eget mi. Integer at dolor sed metus porta sagittis. Proin a mauris sit amet libero accumsan tincidunt. Quisque facilisis tempor mauris nec fermentum. Vivamus ullamcorper ultrices lectus a tincidunt. Curabitur tempus faucibus justo quis lacinia. Suspendisse potenti.
+
+</p>
+</div>
+</body>
+</html>
+
