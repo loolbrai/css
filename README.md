@@ -4,6 +4,9 @@ css
 css training
 
 
+------------------------------------------------------
+<link rel="stylesheet" type="text/css" href="http://zingclub.in/master/css/jquery.autocomplete.css" />
+
 -----------1.inside 2 tybe :-------------h1 tag called
 
   <!doctype html>
