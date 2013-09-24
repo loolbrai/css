@@ -307,3 +307,17 @@ child form:
 form >input {
 color:red;
 }
+--------------------------------------------
+body {
+    background-color: #eee;
+    margin: 5px;
+    font-family: verdana, sans-serif;
+}
+div#full {
+    width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+	height:400px;
+    background-color: #f8f8f8;
+    border: 1px solid #ccc;
+}
