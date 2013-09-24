@@ -293,3 +293,12 @@ to be effective.</p>
 p.first:first-line{
 	background-color:rgb(0,0,102);
 	}
+-----------------------------------------------------------------------
+input css :
+
+input[type="text"]{
+width :28px;		
+		}
+		
+		------------------------
+		
