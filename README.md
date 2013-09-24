@@ -395,4 +395,9 @@ boder{
 .inset { border: 5px inset black }
 .outset { border: 5px outset black }
 
-
+---mozilla ,border radius------
+border-radius:10px;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	
+-------------------------------------------------------------------------------------------------
