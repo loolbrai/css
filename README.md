@@ -366,3 +366,22 @@ body {
 }
 
 --------------------------------------------------
+
+boder{
+
+}
+
+
+--------------------------------------------------------------------------------
+--------------------------border total for -------------------
+	border:1px solid #kjkj;
+	padding:5px;
+	border-right-width:1px;
+	border-top-width:1px;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-width:1px 2px 3px 3px;
+	border-color:black green red blue;
+	border-style:solid;
+
+---------------------------------------------------------------------------------------------
