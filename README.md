@@ -384,4 +384,15 @@ boder{
 	border-color:black green red blue;
 	border-style:solid;
 
----------------------------------------------------------------------------------------------
+--------------------------total border style-------------------------------------------------------------------
+
+.solid { border: 10px none black }
+.dotted { border: 5px dotted black }
+.dashed { border: 5px dashed black }
+.double { border: 10px double black }
+.groove { border: 10px groove black }
+.ridge { border: 10px ridge black }
+.inset { border: 5px inset black }
+.outset { border: 5px outset black }
+
+
