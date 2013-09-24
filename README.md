@@ -354,3 +354,15 @@ float:left,right;
 marign-top,
 margin-right
 
+----------------------------------------------------------------------
+
+set background image:
+
+body {
+    background-color: #eee;
+    margin: 5px;
+	background-image:url(../heic1107a.jpg);
+    font-family: verdana, sans-serif;
+}
+
+--------------------------------------------------
