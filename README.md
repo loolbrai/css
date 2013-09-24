@@ -347,3 +347,10 @@ dl ,dt ,dd
 
 like ul ,li
 -----------------------------------
+
+----------image-------------------------
+
+float:left,right;
+marign-top,
+margin-right
+
