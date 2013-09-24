@@ -321,3 +321,22 @@ div#full {
     background-color: #f8f8f8;
     border: 1px solid #ccc;
 }
+
+
+font size:
+
+-------------------------------------------------------------------------------
+.times { font-family: Times, Times New Roman, serif }
+.helvetica { font-family: Helvetica, Arial, sans-serif }
+.courier { font-family: Courier, Courier New, monospace }
+.georgia { font-family: Georgia, serif }
+.verdana { font-family: Verdana, sans-serif }
+.trebuchet { font-family: Trebuchet MS, sans-serif }
+.impact { font-family: Impact, sans-serif }
+.lucidaSans { font-family: Lucida Sans Unicode, Lucida Grande, sans-serif }
+.lucidaConsole { font-family: Lucida Console, monospace }
+.serif { font-family: serif }
+.sansSerif { font-family: sans-serif }
+.monospace { font-family: monospace }
+.cursive { font-family: cursive }
+font-size:30pt;
