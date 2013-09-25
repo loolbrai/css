@@ -401,3 +401,56 @@ border-radius:10px;
 	-webkit-border-radius:10px;
 	
 -------------------------------------------------------------------------------------------------
+
+-------------------------- link change -------------------------
+a{
+color:black;
+text-decoration:none;
+background-color:#33FF33;
+}
+a:hover{
+	text-decoration:underline;
+	border:2px solid #F8F8F8;
+	}
+a:link{
+	color:blue;
+	}
+li{
+	line-height:1.5em;
+	}
+------------------------------------------------------------------------
+
+
+paragraph and menu ;
+<p class="clear"/>
+a{
+color:black;
+text-decoration:none;
+background-color:#33FF33;
+}
+a:hover{
+	text-decoration:underline;
+	border:2px solid #F8F8F8;
+	}
+a:link{
+	color:blue;
+	}
+li{
+	line-height:1.5em;
+
+	}
+	ul#bj{
+	
+	list-style:none;
+	
+	}
+	#bj a{	
+		display:block;
+		float:left;}
+		p.clear{
+			clear:both;
+			height:0;
+			margin:0;
+			paddind:0;}
+		
+
