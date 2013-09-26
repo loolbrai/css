@@ -452,5 +452,9 @@ li{
 			height:0;
 			margin:0;
 			paddind:0;}
+			
+			------------------------------
+			
+web font for first look lynda.com
 		
 
