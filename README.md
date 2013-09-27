@@ -469,3 +469,12 @@ www.fontspring.com
 yhat mean you can set url for font location
 http://www.fontspring.com/fonts/ds-type/dobra
 http://www.fontsquirrel.com/
+
+
+lynda.com web font first look training
+
+------------------------------------
+
+
+www.w3.org/TR/css3-text-
+
