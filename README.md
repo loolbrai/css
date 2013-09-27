@@ -458,3 +458,14 @@ li{
 web font for first look lynda.com
 		
 
+-----------------------------
+font for css
+codestyle.org
+
+what s font face ?
+
+www.fontspring.com
+
+yhat mean you can set url for font location
+http://www.fontspring.com/fonts/ds-type/dobra
+http://www.fontsquirrel.com/
